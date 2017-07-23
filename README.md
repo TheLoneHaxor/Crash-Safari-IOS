@@ -1,1 +1,3 @@
 # Crash-Safari-IOS
+
+THIS WILL CRASH ANY VERSION OF IOS!
